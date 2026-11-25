@@ -24,7 +24,7 @@ Coverage: 193 countries, 1985-2023
 - Under-5 and maternal mortality are strongly correlated (r = 0.879).
 - Higher skilled birth attendance is associated with lower maternal mortality (R-squared = 0.65).
 - Bangladesh reduced under-5 mortality by about 87.6% between 1985 and 2023.
-![Scatter plot of skilled birth attendance and maternal mortality](scatter_plot.png)
+![Scatter plot of skilled birth attendance and maternal mortality](chart3.png)
 ## Limitations
 This is an observational analysis. It shows association, not causation.
 
